@@ -40,7 +40,7 @@ public class Main {
 //task3
         for (int i = numbers.length - 1; i >= 0; i--) {
             System.out.print(numbers[i]);
-            if (i != 0) ;
+            if (i != 0)
             {
                 System.out.print(", ");
             }
@@ -48,7 +48,7 @@ public class Main {
         System.out.println();
         for (int i = fructions.length - 1; i >= 0; i--) {
             System.out.print(fructions[i]);
-            if (i != 0) ;
+            if (i != 0)
             {
                 System.out.print(", ");
             }
@@ -56,10 +56,8 @@ public class Main {
         System.out.println();
         for (int i = team.length - 1; i >= 0; i--) {
             System.out.print(team[i]);
-            if (i != 0) ;
-            {
+            if (i != 0)
                 System.out.print(", ");
-            }
         }
         System.out.println();
         System.out.println();
